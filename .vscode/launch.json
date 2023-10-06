@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "notas",
+            "request": "launch",
+            "mainClass": "notas",
+            "projectName": "taller3_7c64fd7e"
+        }
+    ]
+}
